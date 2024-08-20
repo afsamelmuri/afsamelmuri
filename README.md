@@ -1,50 +1,12 @@
-# Hi there! 👋 I'm [Your Name]
+<h1 align="center">Hi 👋, I'm Afsa</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a strong interest in **Full Stack Development**, **UI/UX Design**, and **Emerging Technologies**. With a background in engineering and professional experience in the software industry, I'm currently focused on honing my skills to excel in cutting-edge fields like **Generative AI** and **Prompt Engineering**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/afsamelmuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/afsamelmuri/" height="30" width="40" /></a>
+</p>
 
-## 🚀 What I'm Working On
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-- 🌐 **Web Development**: Exploring the latest frameworks and tools to create responsive, user-friendly web applications.
-- 🤖 **AI & Machine Learning**: Diving into AI specializations, including ChatGPT, GPT-3, and Google BERT.
-- 🎨 **UI/UX Design**: Enhancing my design skills to create intuitive and visually appealing user interfaces.
-
-## 🎯 My Mission
-
-I'm on a journey to become a top-tier **Software Engineer**. My goal is to master full-stack development, build a strong foundation in data structures, and stay at the forefront of AI innovations. I'm committed to continuous learning and actively seek out challenging projects that push the boundaries of my capabilities.
-
-## 💼 Professional Experience
-
-- **Software Engineer** with 2.5 years of experience in the industry.
-- Proven track record of delivering high-quality software solutions in a fast-paced environment.
-- Currently pursuing a Master's degree in Technology, focusing on advanced computing concepts.
-
-## 💡 Skills & Expertise
-
-- **Programming Languages**: Python, C++, JavaScript, HTML, CSS
-- **Frameworks & Tools**: React, Node.js, Express, Django, Bootstrap
-- **AI/ML**: GPT-3, ChatGPT, Google BERT, Midjourney
-- **UI/UX**: Figma, Adobe XD, Wireframing, Prototyping
-
-## 🌱 What I'm Learning
-
-- Advanced **JavaScript** and **Python** for scalable web applications.
-- **Machine Learning** algorithms and techniques for practical AI solutions.
-- Best practices in **Aptitude Training** for acing technical interviews.
-
-## 🔍 Looking for Opportunities
-
-I'm currently open to **Full Stack Development**, **AI Specialist**, and **UI/UX Design** roles that challenge me to grow and contribute to innovative projects. If you're looking for a passionate and skilled engineer to join your team, let's connect!
-
-## 📫 Get in Touch
-
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio URL]
-
-## 📝 Projects & Contributions
-
-Feel free to explore my repositories for projects that showcase my skills and passion for development. I'm always eager to collaborate on exciting projects that make an impact.
-
----
-
-**"Continuous learning and improvement are at the heart of my journey."** - [Your Name]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsamelmuri&" alt="afsamelmuri" /></p>
