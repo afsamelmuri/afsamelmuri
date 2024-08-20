@@ -39,12 +39,6 @@ I'm on a relentless journey to push the boundaries of technology. My aim is to:
 
 ---
 
-## 🌱 Currently Learning
-
-- **Advanced JavaScript & Python**: To build efficient, high-performance applications.
-- **Machine Learning Algorithms**: Diving deeper into AI/ML with real-world applications.
-- **Aptitude Training**: Sharpening problem-solving skills for top-tier interviews.
-
 ---
 
 ## 📈 GitHub Stats
@@ -55,8 +49,7 @@ I'm on a relentless journey to push the boundaries of technology. My aim is to:
 
 ## 📫 Let's Connect!
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/afsamelmuri/)
 - **Portfolio**: [Your Portfolio](https://yourportfolio.com)
 
 ---
