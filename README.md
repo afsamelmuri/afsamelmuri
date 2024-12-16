@@ -41,9 +41,7 @@ I'm on a relentless journey to push the boundaries of technology. My aim is to:
 
 ---
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
@@ -54,12 +52,6 @@ I'm on a relentless journey to push the boundaries of technology. My aim is to:
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](https://yourbloglink.com)
-- [Another Blog Post Title](https://yourbloglink.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
