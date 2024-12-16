@@ -47,13 +47,13 @@ I'm on a relentless journey to push the boundaries of technology. My aim is to:
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/afsamelmuri/)
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/afsamelmuri/)
+- **Portfolio**: [My Portfolio](https://yourportfolio.com)
 
 ---
 
 
 ---
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
+
 
