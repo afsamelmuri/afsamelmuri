@@ -1,67 +1,84 @@
-# 👋 Hello, I'm Afsa!
+<h1 align="center">Hi, I'm Afsa 👋</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=afsamelmuri&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/afsamelmuri?label=Follow&style=social) ![Stars](https://img.shields.io/github/stars/afsamelmuri?label=Profile%20Stars&style=social)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=450&lines=AI%2FML+Engineer+%7C+UIDAI+India;Document+Automation+%7C+Computer+Vision+%7C+MLOps;Researcher+%26+Open+Source+Enthusiast;Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
+</p>
 
-Welcome to my corner of GitHub! I'm an **AI/ML Engineer** experienced in building national-scale document automation and identity verification systems at UIDAI (India's Unique Identification Authority). I specialize in production-grade machine learning, computer vision, and MLOps—delivering robust, high-accuracy solutions for real-world impact. 🚀
-
----
-
-## 🎯 Mission
-
-Driven to push the boundaries of AI for real-world impact, I focus on:
-
-- **Scalable ML Solutions**: Architecting and deploying robust, production-ready AI/ML pipelines.
-- **Computer Vision & NLP**: Solving critical problems in document classification, face verification, and language technologies.
-- **MLOps & Cloud**: Automating model deployment, monitoring, and scaling with modern DevOps stacks.
-
----
-
-## 🚀 Featured Projects
-
-- **AI-Based Rice Leaf Disease Identification**: 95%+ accuracy using DMD & XceptionNet for scalable agricultural diagnostics. [[Repo](https://github.com/afsamelmuri/AI-Based-RiceLeafDiseaseDetection-Enhanced-By-Dynamic-Mode-Decomposition)]
-- **AI-Driven Disease Diagnosis & Medicine Recommendation**: End-to-end healthcare ML pipeline for evidence-based, sentiment-aware medicine suggestion. [[Repo](https://github.com/afsamelmuri/-AI-Driven-Disease-Diagnosis-Medicine-Recommendation)]
-- **Lightweight AI Surveillance System**: Real-time, edge-ready video analytics using YOLOv8, LRCN, and ByteTrack. [[Repo](https://github.com/afsamelmuri/AI-Powered-Lightweight-Surveillance-System)]
-
-_For more projects, see my pinned repositories below._
+<p align="center">
+  <a href="https://www.linkedin.com/in/afsamelmuri/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/author/37088348844">
+    <img src="https://img.shields.io/badge/IEEE-Xplore-orange?style=for-the-badge&logo=ieee" alt="IEEE Xplore" />
+  </a>
+  <a href="https://afsamelmuri.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-29a745?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-## 💼 Experience
+## 👨‍💻 About Me
 
-- **AI/ML Engineer** (UIDAI, Government of India)  
-  Built and deployed national-scale ML systems for real-time document classification, face verification (YOLO, RetinaFace, AdaFace), and workflow automation—serving 87,000+ users and achieving 99%+ operational accuracy.
-
-- **Software Engineer** (Tata Consultancy Services)  
-  Scaled ML applications and full stack solutions for high-impact enterprise and e-commerce platforms.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, SQL, Bash, JavaScript
-- **Machine Learning & Deep Learning:** PyTorch, TensorFlow, scikit-learn, Hugging Face, ONNX, OpenCV, YOLOv8, RetinaFace, AdaFace, DenseNet, ResNeXt
-- **Frameworks & APIs:** FastAPI, Flask, REST APIs
-- **MLOps & DevOps:** Docker, Kubernetes, Prometheus, CI/CD, AWS, Linux, Git/GitHub
+- 🎯 **AI/ML Engineer at UIDAI (Government of India)**
+- ⚡ Delivering national-scale **document automation, computer vision, and KYC solutions** for 87,000+ users with 99%+ accuracy.
+- 🧠 Passionate about **deep learning**, **MLOps**, **GenAI**, and applying AI for public good.
+- 🎓 Published researcher & open source contributor.
 
 ---
 
-## 📚 Recent Research
+## 🚀 Tech Stack
 
-- [AI-Driven System for Symptom-Based Disease Prediction and Medicine Recommendation (IEEE)](https://ieeexplore.ieee.org/document/11436142)
-- [Rice Leaf Disease Detection with Deep Learning (IEEE)](https://ieeexplore.ieee.org/document/11377452)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,linux,git,github,opencv,fastapi,postgresql,flask,react" />
+</p>
+
+**Core Competencies:**
+
+- **Programming:** Python, SQL, Bash
+- **Machine Learning/Deep Learning:** PyTorch, TensorFlow, scikit-learn, Hugging Face, ONNX, YOLOv8, RetinaFace, AdaFace, DenseNet, XceptionNet, ResNeXt
+- **MLOps:** Docker, Kubernetes, Prometheus, Grafana, FastAPI, Cloud (AWS/GCP), CI/CD
+- **Computer Vision:** Object Detection, Face Recognition, OCR, Image Processing
+- **NLP & GenAI:** Prompt Engineering, LLMs (GPT, BERT)
+- **REST APIs:** FastAPI, Flask
 
 ---
 
-## 📫 Let's Connect
+## 🏆 Featured Projects
 
-- **LinkedIn:** [linkedin.com/in/afsamelmuri](https://www.linkedin.com/in/afsamelmuri/)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com) <!-- Update if you have a portfolio -->
-- **Email:** [Optional: add if you want recruiters to contact you directly]
+| Project | Tech | Highlights |
+|---------|------|------------|
+| [AI-Based Rice Leaf Disease Detection](https://github.com/afsamelmuri/AI-Based-RiceLeafDiseaseDetection-Enhanced-By-Dynamic-Mode-Decomposition) | `DMD, XceptionNet` | 95.3% accuracy; Scalable agri-diagnostics |
+| [AI-Driven Disease Diagnosis & Medicine Recommendation](https://github.com/afsamelmuri/-AI-Driven-Disease-Diagnosis-Medicine-Recommendation) | `Random Forest, ML Pipeline` | Sentiment-weighted, explainable recommendations |
+| [Lightweight AI Surveillance System](https://github.com/afsamelmuri/AI-Powered-Lightweight-Surveillance-System) | `YOLOv8, LRCN, ByteTrack, Edge AI` | Edge-ready, real-time video analytics (91% accuracy) |
 
 ---
 
-<!--
-**Pro Tips:**
-- For more code/action, check my pinned/public repos.
-- Always open for ML/AI research, national-scale civic tech, and collaboration!
--->
+## 📚 Research Publications
+
+- [AI-Driven System for Symptom-Based Disease Prediction and Review-Informed Medicine Recommendation (IEEE)](https://ieeexplore.ieee.org/document/11436142)
+- [Rice Leaf Disease Detection with DMD and Deep Learning (IEEE)](https://ieeexplore.ieee.org/document/11377452)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afsamelmuri&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsamelmuri&theme=radical&layout=compact" height="150"/>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/afsamelmuri/)
+- 🌐 [Portfolio](https://afsamelmuri.github.io/)
+- 📧 [your-email@example.com](mailto:your-email@example.com)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1500&color=29a745&center=true&vCenter=true&width=500&lines=Open+to+collaboration+in+AI/ML,+MLOps,+Vision,+and+GenAI!">
+</p>
