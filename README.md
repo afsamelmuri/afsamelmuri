@@ -1,59 +1,67 @@
-# 👋 Hello, I'm afsa!
+# 👋 Hello, I'm Afsa!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) ![Stars](https://img.shields.io/github/stars/yourusername?label=Profile%20Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=afsamelmuri&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/afsamelmuri?label=Follow&style=social) ![Stars](https://img.shields.io/github/stars/afsamelmuri?label=Profile%20Stars&style=social)
 
-Welcome to my corner of GitHub! I'm a **Software Engineer** with a passion for building dynamic web applications, designing intuitive user experiences, and diving into the world of **Artificial Intelligence**. 🚀
-
----
-
-## 🎯 My Mission
-
-I'm on a relentless journey to push the boundaries of technology. My aim is to:
-
-- **Master Full Stack Development**: Crafting robust, scalable, and user-centric applications.
-- **Innovate with AI**: Exploring cutting-edge AI technologies like GPT-3, ChatGPT, and Google BERT.
-- **Design Stunning UI/UX**: Creating seamless and engaging user experiences.
+Welcome to my corner of GitHub! I'm an **AI/ML Engineer** experienced in building national-scale document automation and identity verification systems at UIDAI (India's Unique Identification Authority). I specialize in production-grade machine learning, computer vision, and MLOps—delivering robust, high-accuracy solutions for real-world impact. 🚀
 
 ---
 
-## 🚀 Current Projects
+## 🎯 Mission
 
-- **🌐 Full Stack Development**: Enhancing my skills with the latest in web technologies.
-- **🤖 AI & Machine Learning**: Working on innovative projects using AI to solve real-world problems.
-- **🎨 UI/UX Design**: Crafting user interfaces that are not just functional but also beautiful.
+Driven to push the boundaries of AI for real-world impact, I focus on:
+
+- **Scalable ML Solutions**: Architecting and deploying robust, production-ready AI/ML pipelines.
+- **Computer Vision & NLP**: Solving critical problems in document classification, face verification, and language technologies.
+- **MLOps & Cloud**: Automating model deployment, monitoring, and scaling with modern DevOps stacks.
+
+---
+
+## 🚀 Featured Projects
+
+- **AI-Based Rice Leaf Disease Identification**: 95%+ accuracy using DMD & XceptionNet for scalable agricultural diagnostics. [[Repo](https://github.com/afsamelmuri/AI-Based-RiceLeafDiseaseDetection-Enhanced-By-Dynamic-Mode-Decomposition)]
+- **AI-Driven Disease Diagnosis & Medicine Recommendation**: End-to-end healthcare ML pipeline for evidence-based, sentiment-aware medicine suggestion. [[Repo](https://github.com/afsamelmuri/-AI-Driven-Disease-Diagnosis-Medicine-Recommendation)]
+- **Lightweight AI Surveillance System**: Real-time, edge-ready video analytics using YOLOv8, LRCN, and ByteTrack. [[Repo](https://github.com/afsamelmuri/AI-Powered-Lightweight-Surveillance-System)]
+
+_For more projects, see my pinned repositories below._
 
 ---
 
 ## 💼 Experience
 
-- **Software Engineer** with 2.5 years of industry experience.
-- **Master’s Student** focusing on advanced computing concepts and emerging technologies.
+- **AI/ML Engineer** (UIDAI, Government of India)  
+  Built and deployed national-scale ML systems for real-time document classification, face verification (YOLO, RetinaFace, AdaFace), and workflow automation—serving 87,000+ users and achieving 99%+ operational accuracy.
+
+- **Software Engineer** (Tata Consultancy Services)  
+  Scaled ML applications and full stack solutions for high-impact enterprise and e-commerce platforms.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-- **Design**: ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
+- **Languages:** Python, SQL, Bash, JavaScript
+- **Machine Learning & Deep Learning:** PyTorch, TensorFlow, scikit-learn, Hugging Face, ONNX, OpenCV, YOLOv8, RetinaFace, AdaFace, DenseNet, ResNeXt
+- **Frameworks & APIs:** FastAPI, Flask, REST APIs
+- **MLOps & DevOps:** Docker, Kubernetes, Prometheus, CI/CD, AWS, Linux, Git/GitHub
 
 ---
 
----
+## 📚 Recent Research
 
-
-
----
-
-## 📫 Let's Connect!
-
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/afsamelmuri/)
-- **Portfolio**: [My Portfolio](https://yourportfolio.com)
+- [AI-Driven System for Symptom-Based Disease Prediction and Medicine Recommendation (IEEE)](https://ieeexplore.ieee.org/document/11436142)
+- [Rice Leaf Disease Detection with Deep Learning (IEEE)](https://ieeexplore.ieee.org/document/11377452)
 
 ---
 
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/afsamelmuri](https://www.linkedin.com/in/afsamelmuri/)
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com) <!-- Update if you have a portfolio -->
+- **Email:** [Optional: add if you want recruiters to contact you directly]
 
 ---
 
-
-
+<!--
+**Pro Tips:**
+- For more code/action, check my pinned/public repos.
+- Always open for ML/AI research, national-scale civic tech, and collaboration!
+-->
