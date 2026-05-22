@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Afsa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=450&lines=AI%2FML+Engineer+%7C+UIDAI+India;Document+Automation+%7C+Computer+Vision+%7C+MLOps;Researcher+%26+Open+Source+Enthusiast;Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=480&lines=AI%2FML+Engineer+%7C+UIDAI+%7C+National+Scale;Machine+Learning+%7C+Deep+Learning+%7C+MLOps+%7C+GenAI;Delivering+AI+for+Public+Good;Open+Source+%26+Research+Contributor;Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,36 +24,20 @@
 ## 👨‍💻 About Me
 
 - 🎯 **AI/ML Engineer at UIDAI (Government of India)**
-- ⚡ Delivering national-scale **document automation, computer vision, and KYC solutions** for 87,000+ users with 99%+ accuracy.
-- 🧠 Passionate about **deep learning**, **MLOps**, **GenAI**, and applying AI for public good.
-- 🎓 Published researcher & open source contributor.
+- ⚡ Delivering national-scale **machine learning, document automation, and computer vision** solutions serving lakhs of users with 99%+ accuracy.
+- 🧠 Passionate about **machine learning, deep learning, MLOps, GenAI**, and applying AI for public good.
+- 🎓 Published researcher & active in open source communities.
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,linux,git,github,opencv,fastapi,postgresql,flask,react" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,linux,git,github,opencv,fastapi,postgresql,flask" />
 </p>
 
-**Core Competencies:**
-
-- **Programming:** Python, SQL, Bash
-- **Machine Learning/Deep Learning:** PyTorch, TensorFlow, scikit-learn, Hugging Face, ONNX, YOLOv8, RetinaFace, AdaFace, DenseNet, XceptionNet, ResNeXt
-- **MLOps:** Docker, Kubernetes, Prometheus, Grafana, FastAPI, Cloud (AWS/GCP), CI/CD
-- **Computer Vision:** Object Detection, Face Recognition, OCR, Image Processing
-- **NLP & GenAI:** Prompt Engineering, LLMs (GPT, BERT)
-- **REST APIs:** FastAPI, Flask
-
----
-
-## 🏆 Featured Projects
-
-| Project | Tech | Highlights |
-|---------|------|------------|
-| [AI-Based Rice Leaf Disease Detection](https://github.com/afsamelmuri/AI-Based-RiceLeafDiseaseDetection-Enhanced-By-Dynamic-Mode-Decomposition) | `DMD, XceptionNet` | 95.3% accuracy; Scalable agri-diagnostics |
-| [AI-Driven Disease Diagnosis & Medicine Recommendation](https://github.com/afsamelmuri/-AI-Driven-Disease-Diagnosis-Medicine-Recommendation) | `Random Forest, ML Pipeline` | Sentiment-weighted, explainable recommendations |
-| [Lightweight AI Surveillance System](https://github.com/afsamelmuri/AI-Powered-Lightweight-Surveillance-System) | `YOLOv8, LRCN, ByteTrack, Edge AI` | Edge-ready, real-time video analytics (91% accuracy) |
+**Core Competencies:**  
+Machine Learning · Deep Learning · Computer Vision · NLP/GenAI · MLOps · Model Evaluation & Deployment · Cloud (AWS/GCP) · Scalable API Engineering
 
 ---
 
