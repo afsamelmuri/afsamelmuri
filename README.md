@@ -77,7 +77,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/afsamelmuri/)
 - 🌐 [Portfolio](https://afsamelmuri.github.io/)
-- 📧 [afsamelmuri@example.com](mailto:your-email@example.com)
+- 📧 [afsamelmuri@gmail.com](mailto:your-email@example.com)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1500&color=29a745&center=true&vCenter=true&width=500&lines=Open+to+collaboration+in+AI/ML,+MLOps,+Vision,+and+GenAI!">
